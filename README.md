@@ -61,7 +61,7 @@ If you are using Windows, do *NOT* proceed, see instructions [here](https://gith
 
 1. Clone this repository and navigate to LLaVA folder
 ```bash
-git clone https://github.com/haotian-liu/LLaVA.git
+git clone https://github.com/Letz-AI/LLaVA-letzai
 cd LLaVA
 ```
 
